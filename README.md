@@ -29,11 +29,11 @@ Bu proje, Mobil Programlama dersi kapsamında İstanbul Medeniyet Üniversitesi 
 
 | **Giriş Ekranı**                     | **Anasayfa**                       |
 |--------------------------------------|-----------------------------------|
-| ![Giriş Ekranı](assets/giriş.jpg)    | ![Anasayfa](assets/home.png)      |
+| ![Giriş Ekranı](OBS_app_finish/assets/giriş.jpg)    | ![Anasayfa](OBS_app_finish/assets/anasayfa.jpg)      |
 
-| **Ders Bilgileri**                   | **Profil Sayfası**                 |
+| **Menü Çubuğu**                   | **Profil Sayfası**                 |
 |--------------------------------------|-----------------------------------|
-| ![Dersler](assets/courses.png)       | ![Profil](assets/profile.png)     |
+| ![Dersler](OBS_app_finish/assets/menü_çubuğu.jpg)       | ![Profil](OBS_app_finish/assets/profil.jpg)     |
 
 ## Teknolojiler
 
