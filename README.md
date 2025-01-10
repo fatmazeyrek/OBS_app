@@ -51,7 +51,7 @@ Bu proje, Mobil Programlama dersi kapsamında İstanbul Medeniyet Üniversitesi 
 1. **Proje deposunu klonlayın:**
 
    ```bash
-
+   git clone https://github.com/fatmazeyrek/OBS_app.git
 
 2. **Gerekli bağımlılıkları yükleyin:**
    ```bash
