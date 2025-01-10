@@ -57,7 +57,7 @@ Bu proje, Mobil Programlama dersi kapsamında İstanbul Medeniyet Üniversitesi 
    ```bash
    flutter pub get
 
-3. **Gerekli bağımlılıkları yükleyin:**
+3. **Projeyi çalıştırın:**
    ```bash
    flutter run
 **Klasör Yapısı:**
