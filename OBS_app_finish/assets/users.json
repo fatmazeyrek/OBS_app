@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "user",
+      "password": "1234",
+      "name": "adı-soyadı",
+      "email": "kullanici.adi-sayadi@ismu.edu.tr"
+    },
+{
+      "username": "user1",
+      "password": "1234",
+      "name": "Fatma Zeyrek",
+      "email": "fatma.zeyrek@ismu.edu.tr"
+    },
+    {
+      "username": "user2",
+      "password": "1234",
+      "name": "Pınar Jumaa",
+      "email": "pinar.jumaa@ismu.edu.tr"
+    },
+    {
+      "username": "user3",
+      "password": "abcd",
+      "name": "Ayşe Yılmaz",
+      "email": "ayse.yilmaz@ismu.edu.tr"
+    }
+  ]
+}
